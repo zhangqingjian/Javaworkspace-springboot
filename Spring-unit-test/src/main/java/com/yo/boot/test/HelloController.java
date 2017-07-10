@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class HelloController {
-	private String teString;
+ 
 	@Autowired
 	private BlogProperties blogProperties;
 	@RequestMapping("/hello")
@@ -25,18 +25,5 @@ public class HelloController {
 //		return blogProperties.getName();
 		return "jan";
 	}
-	/**
-	 * @return the teString
-	 */
-	public String getTeString()
-	{
-		return teString;
-	}
-	/**
-	 * @param teString the teString to set
-	 */
-	public void setTeString(String teString)
-	{
-		this.teString = teString;
-	}
+	 
 }
