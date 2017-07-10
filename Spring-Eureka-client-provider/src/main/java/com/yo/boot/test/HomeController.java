@@ -22,6 +22,7 @@ import org.springframework.web.client.RestTemplate;
 @RestController
 public class HomeController
 {
+	
 	 private static final Log log = LogFactory.getLog(HomeController.class);
 	    @Autowired
 	    private RestTemplate restTemplate;
