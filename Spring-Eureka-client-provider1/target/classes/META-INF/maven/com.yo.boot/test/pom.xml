@@ -60,6 +60,7 @@
 		</dependencies>
 	</dependencyManagement>
 	<build>
+		<finalName>Spring-Eureka-client-provider1</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>

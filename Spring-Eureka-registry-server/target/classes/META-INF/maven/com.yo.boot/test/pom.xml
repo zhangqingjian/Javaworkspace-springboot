@@ -9,7 +9,6 @@
 
 	<name>test2</name>
 	<url>http://maven.apache.org</url>
-
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>1.8</java.version>
@@ -56,6 +55,7 @@
 		</dependencies>
 	</dependencyManagement>
 	<build>
+		<finalName>Spring-Eureka-registry-server</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
