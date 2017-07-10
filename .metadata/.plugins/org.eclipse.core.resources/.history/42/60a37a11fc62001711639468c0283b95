@@ -1,0 +1,5 @@
+name=jan
+title=Spring Boot practise
+spring.application.name=test
+server.port=9966
+spring.zipkin.enabled=true

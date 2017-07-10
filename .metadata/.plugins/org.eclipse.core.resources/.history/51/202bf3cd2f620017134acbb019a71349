@@ -1,0 +1,27 @@
+/**
+ * 
+ */
+package com.yo.boot.test;
+/**
+ */
+/**
+ * @author  JAN   
+ * @CreatedTime：2017年7月6日 下午5:44:44
+ * 说明：
+ */
+public class HomeController
+{
+	 private static final Log log = LogFactory.getLog(HomeController.class);
+	    @Autowired
+	    private RestTemplate restTemplate;
+	     
+	    private String url="http://localhost:9986";
+	 
+	    @RequestMapping("/service1")
+	    public String service1() throws Exception {
+	        log.info("service1");
+	        Thread.sleep(200L);
+	        String s = this.restTemplate.getForObject(url + "/service2", String.class);
+	        return s;
+	    }  
+}

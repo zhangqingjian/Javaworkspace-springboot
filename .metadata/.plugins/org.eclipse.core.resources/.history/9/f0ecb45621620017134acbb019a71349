@@ -1,0 +1,19 @@
+/**
+ * 
+ */
+package com.yo.boot.test;
+
+/**
+ */
+/**
+ * @author JAN
+ * @CreatedTime：2017年7月6日 下午4:01:17 说明：
+ */
+
+@RestController
+public class HelloController {
+	@RequestMapping("/hello")
+	public String index() {
+		return "Hello World";
+	}
+}

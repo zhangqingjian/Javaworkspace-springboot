@@ -1,0 +1,6 @@
+name=jan
+title=Spring Boot practise
+spring.application.name=sleuthServer1
+server.port=9966
+spring.zipkin.baseUrl=http://localhost:9900
+spring.zipkin.enabled=true

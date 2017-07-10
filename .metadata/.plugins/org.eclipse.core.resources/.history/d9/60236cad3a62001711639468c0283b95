@@ -1,0 +1,4 @@
+name=jan
+title=Spring Boot practise
+spring.application.name=sleuthServer
+server.port=9966

@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+externalMigrateFromAuthorizationDatabase/isMigrated=true
+migrateFromAuthorizationDatabase/isMigrated=true
+repositories/30179ffd238000141cc8aef0ff6473d2=30179ffd238000141cc8aef0ff6473d2;http\://fv-101\:81/svn/FV-Server/;http\://fv-101\:81/svn/FV-Server/;branches;tags;trunk;true;27b22102-f90a-b246-8ab7-abba9b14a8d4;http\://fv-101\:81/svn/FV-Server;;false;;;0
+repositories/4026269755b300151acbe7b67a2e0c43=4026269755b300151acbe7b67a2e0c43;http\://123.57.231.94\:81/svn/yoevent-ios-version2;http\://123.57.231.94\:81/svn/yoevent-ios-version2;branches;tags;trunk;true;db17bdcb-d033-be45-aec5-78d52008c9e1;http\://123.57.231.94\:81/svn/yoevent-ios-version2;;false;;;0
+repositories/a000aa4a3c2900151611de717473a97c=a000aa4a3c2900151611de717473a97c;http\://fv-101\:81/svn/yo-fv-android;http\://fv-101\:81/svn/yo-fv-android;branches;tags;trunk;true;5de44c10-0b7f-f64c-a6a5-3e2b632ff85a;http\://fv-101\:81/svn/yo-fv-android;;false;;;0
+repositories/a01e1709d3e400141e7ce4975eb101d6=a01e1709d3e400141e7ce4975eb101d6;http\://fv-101\:81/svn/yo-fv-ios/;http\://fv-101\:81/svn/yo-fv-ios/;branches;tags;trunk;true;4b964da7-0d97-0340-bb2e-bd7b7c6d399a;http\://fv-101\:81/svn/yo-fv-ios;;false;;;0
+repositories/b04613dc532f0015107e871a57bf1552=b04613dc532f0015107e871a57bf1552;http\://123.57.231.94\:81/svn/yoevent-android/trunk;http\://123.57.231.94\:81/svn/yoevent-android/trunk;branches;tags;trunk;true;86a0fb37-c911-b74f-a80e-74e323e09683;http\://123.57.231.94\:81/svn/yoevent-android;;false;;;0
+repositories/c0d40277d4940015149f9e406c9bd4e3=c0d40277d4940015149f9e406c9bd4e3;http\://123.57.231.94\:81/svn/yoevent-android;http\://123.57.231.94\:81/svn/yoevent-android;branches;tags;trunk;true;86a0fb37-c911-b74f-a80e-74e323e09683;http\://123.57.231.94\:81/svn/yoevent-android;;false;;;0
+repositories/c0e8b453180d00161bb5c40114cceb79=c0e8b453180d00161bb5c40114cceb79;http\://FV-101\:81/svn/yo-news;http\://FV-101\:81/svn/yo-news;branches;tags;trunk;true;;;;false;;;0
+repositories/d04f01d8acd200141ee38cb36e253ce9=d04f01d8acd200141ee38cb36e253ce9;http\://fv-101\:81/svn/yo-fv/;http\://fv-101\:81/svn/yo-fv/;branches;tags;trunk;true;6db32e0f-5cd9-3741-8625-bdeef53157d6;http\://fv-101\:81/svn/yo-fv;;false;;ZEhKMVpRPT07ZDA0ZjAxZDhhY2QyMDAxNDFlZTM4Y2IzNmUyNTNjZTk7YUhSMGNEb3ZMMloyTFRFd01UbzRNUzl6ZG00dmVXOHRabll2ZEhKMWJtcz07MTsxMjY7NDsxOzEyNjs\=^ZEhKMVpRPT07ZDA0ZjAxZDhhY2QyMDAxNDFlZTM4Y2IzNmUyNTNjZTk7YUhSMGNEb3ZMMloyTFRFd01UbzRNUzl6ZG00dmVXOHRabll2ZEhKMWJtc3Zabll0YldGcGJnPT07MTsxMzA7NDsxOzEzMDs\=;0
+synch_info/contigous=true

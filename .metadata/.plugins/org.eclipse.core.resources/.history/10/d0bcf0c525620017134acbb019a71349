@@ -1,0 +1,23 @@
+/**
+ * 
+ */
+package com.yo.boot.test.demo;
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.stereotype.Component;
+
+/**
+ */
+/**
+ * @author JAN
+ * @CreatedTime：2017年7月6日 下午4:32:36 说明：
+ */
+@Component
+public class BlogProperties
+{
+	@Value("${name}")
+	private String name;
+	@Value("${title}")
+	private String title;
+	// 省略getter和setter
+}

@@ -1,0 +1,8 @@
+name=jan
+title=Spring Boot practise
+spring.application.name=sleuthService2
+#zipkin的服务端口，访问http://localhost:9977就能访问到zipkin的服务数据
+server.port=9977
+spring.zipkin.baseUrl=http://localhost:9966
+spring.zipkin.enabled=true
+spring.sleuth.enabled=true
