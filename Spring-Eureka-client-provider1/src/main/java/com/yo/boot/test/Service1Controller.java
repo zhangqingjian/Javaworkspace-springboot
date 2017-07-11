@@ -30,9 +30,6 @@ public class Service1Controller
 	@Autowired
 	IFeignClient iFeignClient;
 	private String url = "http://localhost:9986";
-
-	// @Autowired
-	// IFeignClient iFeignClient;
 	@GetMapping("/service1")
 	public String service1() throws Exception
 	{
