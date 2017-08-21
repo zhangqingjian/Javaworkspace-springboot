@@ -33,6 +33,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 public class Chapter1ApplicationTests {
 	private MockMvc mvc;
 
+	
 	@Before
 	public void setUp() throws Exception {
 		mvc = MockMvcBuilders.standaloneSetup(new HelloController()).build();
