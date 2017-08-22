@@ -17,6 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class HelloController {
  
+	
 	@Autowired
 	private BlogProperties blogProperties;
 	@RequestMapping("/hello")
