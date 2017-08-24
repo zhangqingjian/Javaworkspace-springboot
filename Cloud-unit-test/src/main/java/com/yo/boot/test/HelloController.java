@@ -24,7 +24,7 @@ public class HelloController {
 	public String index() {
 		 
 //		return blogProperties.getName();
-		return "jan";
+		return "jan1";
 	}
 	 
 }                  
